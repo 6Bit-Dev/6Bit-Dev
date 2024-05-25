@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, It's me <a>AKH</a>!</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, It's me <a>Abishek Krishna</a>!</h1>
 <h3 align="center">A Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6Bit-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="6Bit-Dev" /> </p>
