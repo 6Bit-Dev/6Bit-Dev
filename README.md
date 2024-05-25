@@ -12,6 +12,7 @@
 <a href="https://www.youtube.com/@6BitClone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaelgaming5472" height="30" width="40" /></a>
 <a href="https://discord.gg/q2hHxjASss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JwWANh8EY5" height="30" width="40" /></a> 
 </p>
+<br>
 <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 - 🔗 Join me on Discord [Clone GAMING](https://discord.gg/q2hHxjASss)
